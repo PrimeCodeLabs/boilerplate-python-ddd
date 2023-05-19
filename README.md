@@ -1,4 +1,4 @@
-# Your Project Name
+# Boilerplate Python DDD
 
 This is a boilerplate Python application using DDD (Domain-Driven Design) and various technologies such as CQRS, PostgreSQL, AWS EventBridge, AWS SQS, AWS Lambda, and Serverless Framework.
 
